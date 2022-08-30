@@ -1,0 +1,397 @@
+=== α. Preamble. ===
+
+It's funny. Visiting Final Fantasy VII Remake nearly 20 years after playing the original release really put into perspective how much of the original just went over my head when I first played it. 
+
+Because when Square presented a premise of terrorists against an evil mega-corporation to a sheltered boy--that boy being me--I saw Robin Hood versus the Sheriff of Nottingham, or the Rebel Alliance versus the Galactic Empire. To me, this starting point was more a means to an end, with the "end" being cool battles, cool set-pieces, and an even cooler silver-maned villain introduced in the first few hours of playtime. 
+
+Now, 20 years after my original playthrough, I went into Remake with better critical thinking skills, a little more worldliness, and--of course--a longstanding adderall prescription. I became positioned like a goalie, arms up and ready to intercept whatever Remake threw at me.
+
+And when the dust of my Remake playthrough settled, what do you think I found in my hand?
+
+Radical leftist politics...?
+
+=== β. Is Final Fantasy VII a Radical Left-Wing Game? ===
+
+Hello, I'm Vik for Dead Generations and in this video, I plan to go on a journey with you. At the end of our journey, we'll find an answer to the question in the video title, which we'll uncover by first exploring the following two assertions:
+
+1. There is a radical heart to Final Fantasy VII.
+
+2. Final Fantasy VII reflects real-life radical left politics.
+
+Before I go on, I will warn you that this video contains extensive spoilers for the entire Compilation of Final Fantasy VII, which includes the original game, Remake, InterMISSION, and other sequels, prequels, spinoffs... Kingdom Hearts... the Kids are All Right...
+
+I've read through a lot of articles, essays, book chapters and manifestos to write this video, and you can see a list of references linked in the description below.
+ 
+For the most part, I tried to make sure my sources weren't paywalled, and I invite you to read, scrutinize, and most importantly, use my sources as a breadcrumb trail to learn more about the stuff I talk about. That said, please feel free to teach me a thing or ten in the comments. Especially if I've gotten something wrong.
+
+I have also subtitled the video myself and have chapters, timestamps, a transcript, and all of that fun stuff, so take advantage!
+
+Now, let's begin by taking a closer look at the foundational elements of Final Fantasy VII's worldbuilding.
+
+=== Chapter 1: Shinra and the '&^#$# pizza' ===
+
+Barret: "The upper world...a city on a plate... It's 'cuz of that &^#$# 'pizza', that people underneath are sufferin'! And the city below is full of polluted air. On topa that, the Reactor keeps drainin' up all the energy."
+
+"Then why doesn't everyone move onto the Plate?"
+
+"Dunno. Probably 'cuz they ain't got no money. Or, maybe... 'Cuz they love their land, no matter how polluted it gets."
+
+"I know... no one lives in the slums because they want to. It's like this train. It can't run anywhere except where its rails take it."
+
+Remake introduces you to its most prominent villain in the first few minutes of gameplay: the Shinra Electric Power Company, a mega-corporation that literally uses the planet's lifeblood to power their reactors. 
+
+You're also introduced to Remake's rendition of one the most memorable locations in all of video games: the city of Midgar. There's an elevated section where affluent and middle-class people live, hundreds of feet above ground, and a ground-level section littered with debris, pollution, and of course, poor people. 
+
+As the Midgar section of the game's story progresses, you learn more about the way the Shinra Company's remit is closer to that of the nation-state than that of the typical evil corporation:
+
+It employs a large number of Midgar's residents
+
+It maintains a police force in the form of the Shinra Public Security Forces
+
+It builds housing and infrastructure for the city's residents.
+
+It deploys its own paramilitary forces in the form of SOLDIER and spies in the form of the Turks in shady interventions around the world
+
+It's even publicly engaged in a war with Wutai, another nation-state.
+
+Midgar does have a mayor--Domino--who is more a Shinra Company figurehead than a legitimate civil authority.  
+
+Let's begin to put all of this into a wider cultural and historic context. First off, a question I'm sure is on all of our minds right now: what's a city, anyway? 
+
+I'm going to draw heavily from Chapter 1 of 2017's Cities of Power by sociologist Göran Therborn for this section, but everything I'll reference can be read, for free, via Google Books preview--link in the description below.
+
+Now, Therborn begins with a quote by the historian Lewis Mumford that seems to be a succinct explanation that even a toddler can understand: a city is "a point of maximum concentration for the power and culture of a community." 
+
+While Cities of Power is mostly concerned with surveying real-world capital cities, some of the lessons of that first chapter are generalizable enough to our discussion on Midgar. In the Mumford quote, "Power" has political and economic dimensions.
+ 
+We can understand "political power" as the authority granted "by coercion and/or persuasion through institutions and processes of government." To contextualize Therborn's definition: I live in a city, and have no choice but to defer to the political power wielded by my city government in the form of its management of public utilities, command over an army of cops, its maintenance of the sidewalks and roads I use to travel, and so on.
+
+Relevant to us is the idea that political power in cities can exist alongside political counter-power, which might take the form of protest rallies, opposition movement headquarters, and so on.
+
+We can understand "economic power" as the concentration of capital--engines of production like factories--and wealth.
+
+Power shapes cities in very important ways, including spatially. For example, if a city center is secluded from the periphery of a city, we can infer an element of social exclusivity--Therborn's characteristic example being former South African apartheid cities, which had undeveloped wasteland separating nonwhite "townships" from white city centers.
+
+Even topography can be interpreted as a power gradient--Therborn specifically cites pre-modern Edo, Japan, which saw lords living on hills, and their retinue below them. 
+
+We see how sociologically well-constructed Midgar is as a setting when we reconcile Therborn's lessons with the city as it's presented in the Original and Remake. 
+
+Spatially, when we consider the stratification of Midgar's upper and lower levels, we have a pretty clear power gradient that culminates in President Shinra's office at the very top. 
+
+Our understanding of Midgar as a concentration of power starts with three words: the Shinra Company:
+
+1. The Company provides reactors and manufacturing facilities, and is where the majority of the city's wealth is tied. 
+
+2. Politically, we recall that the Shinra Company effectively acts as Midgar's government, providing public services and infrastructure, in addition to having the city's Mayor in their pocket.   
+
+Importantly, we should try to recognize the existence of a political counter-power in Midgar. The name escapes me right now, I'm thinking of an environmental phenomenon but I can't quite recall it. What? You're saying I should know since I wrote the script to this video? Oh, you. Anyway, let's come back to that one a little later.
+
+We've placed Midgar in a socio-political context, and in doing this, we've reaffirmed the outsized role of the Shinra Company as the city's literal and figurative source of power. Let's talk about this relationship: 
+
+The evil corporation is well-trodden ground in fiction around the world, and it's easy to see the trope as a sort of creative rebellion against the omnipresence of corporations in our day-to-day lives. If you're watching this video, you've probably encountered charts like this one, created by Oxfam in 2014, which shows us that 10 companies own a lot of food sold at supermarkets.
+
+But more than a creative rebellion, the trope is predicated on actual harmful practices corporations have historically engaged in. We can relate a few examples to Shinra and Midgar:
+
+1. Company towns. 
+
+Defined as a town with its buildings, amenities and businesses being owned by a single company and particularly prevalent in the United States in the late 18th century and early 19th century.
+
+The concept is rife with problems for the people actually working there: workers were subject to poor living conditions, and the rent for these living spaces would be higher than rent in surrounding areas. As company towns were fairly isolated,  workers--who might have undertaken long-distance migration to reach these towns--didn't have many options for making an equivalent wage elsewhere. This bind gave workers little choice but to essentially give back a portion of their wages to the company in exchange for lodging, goods and services. If this setup sounds deeply exploitative--that's because it is. 
+
+And if workers deigned to organize and strike in response to these unfair conditions, the consequences would be disastrous. The Ludlow Massacre of 1914 demonstrated this morbidly well, in which the Colorado Fuel and Iron Company, owned by the Rockefeller family, brought in the Colorado National Guard and its own gunmen to attack a camp of striking miners from the United Mine Workers of America. This led to over a dozen miners, their spouses, and their children being murdered. 
+
+We can interpret Remake's Midgar as the highest stage of the company town. It's a settlement that's effectively owned by the Shinra Company, it's fairly isolated from its closest neighboring settlement, Kalm, and the existence of the city cannot be decoupled from its mako reactors. 
+
+There's a core of people who live in Midgar so they can work on and maintain those reactors, and everything else -- the police force, the housing, the infrastructure, and even businesses like Sam's Delivery Service either directly or indirectly serve that core. The natural resources and wealth that are extracted from this system end up literally flowing upwards to the Shinra Company HQ.
+
+Boy, I sure am glad we're nearly a century out from the era of towns like Ludlow, and Final Fantasy VII is a work of fiction. 
+
+Ahem.
+
+2. Paramilitaries. 
+
+Multinationals have long been accused of funding paramilitaries to brutally enforce their profit-driven goals in regions around the world.  
+
+Take the humble Chiquita banana. For nearly a century, the past and present incarnations of Chiquita Brands International have allegedly worked with paramilitaries in Colombia to murder union organizers, indigenous Mayan people and other activists.
+
+We can look further back at the British East India Company, what we might consider the world's first multinational corporation. The Company's activities led to the subjugation of the region of Bengal in South Asia in the mid-18th century. Bengal was then used as a staging ground for the conquest of the rest of the subcontinent over the next century. The looting of South Asia, the seizure of its property and wealth, was executed by the use of a private army trained and paid by the Company. 
+
+The Shinra Company evokes this paradigm of colonialism in their use of SOLDIER to intervene in places like Wutai. Before the events of Remake, the Shinra Company planned to establish a Mako reactor in the nation of Wutai.  This understandably set off alarm bells with the Wuitains, because... why wouldn't it?
+
+But more specifically, the Wutains had seen the way Mako reactors were used to consolidate the Shinra Company's economic and political control over a region. This initial resistance, of course, escalated into a war between Wutai and the Shinra Company. 
+
+Now as an aside, if we go through records of the Shinra company colonizers--yes, I said it, colonizers who participated in the Wutai campaign, there's the villainous Sephiroth, of course. But look a little closer and who else do you see? Why, it's the fandom's favorite boy, Zack Fair. I'm sorry to break it to you all, but your fave is a war criminal. 
+
+3. Corporations and government. 
+
+Now, a lot of the real-life history I've spoken about so far was facilitated with the consent of most of the governments involved. 
+
+In Ludlow, the Rockefellers leveraged their influence to get the Governor of Colorado to mobilize the Colorado National Guard to kill miners and their families.
+
+In Colombia, Chiquita's collaboration with right-wing death squads was often condoned by whichever government was in power at the time. 
+
+The British East India Company counted numerous supporters and shareholders among members of parliament, and waged its bloody campaign in South Asia with the permission of the Crown. 
+
+There are probably countless examples I can add to this section, like the issue of think tanks and lobbyists advancing corporate interests in the United States. Did you know that some go as far as to write model legislation that can be copied and submitted by lawmakers with some edits?
+
+Or the age old tradition of governments around the world selling national institutions and natural resources to corporate interests? Just look at the privatization of Chile's education, health care, social security, and copper mines during the brutally repressive Pinochet regime in the 80s.
+
+When we bring this back to Final Fantasy VII, we see the broad theme of corporate power outstripping government power in the Shinra Company's relationship with Mayor Domino. His office is placed in an obscure part of the Shinra Company's Headquarters, and his actual governing responsibilities are very minimal save for issuing a temporary state of emergency towards the beginning of the game.
+
+"The Mayor is the best," more like "capitalism is the worst," am I right folks?
+
+It's easy to dismiss these parallels and consider the way Midgar and Shinra are conveyed in Final Fantasy VII as purely aesthetic. 
+
+You can say the mega-city, the futuristic tech, and Chadley the intern are just there to evoke cyberpunk coolness and there's no intentional engagement with left-wing politics... but I think it's clear that the writers of the original game and Remake, Kazushige Nojima and company, were explicitly engaging with anti-capitalist themes.
+
+And why? If the historical parallels alone aren't enough, what tips the scale? The answer lies in the ideological opposition to the Shinra Company - the political counter-power named after an environmental phenomenon - Avalanche. 
+
+=== Chapter 2: A Framework for Avalanche. ===
+
+Barret: "Let's talk about wasteful indulgences. What is mako? The lifestream! The lifeblood of the planet—our planet! But Shinra keeps on slurping it up like a thirsty dog! Whadda you think's gonna happen if you don't stop, huh!?" 
+
+Frameworks are an important part of any serious critical analysis, whether it's of a TV show, a video game, or even events happening in the world. For the purpose of this video, let's define a "framework," or a "lens," or a "frame of reference," or a "perspective" as the analytical approach we take when we interpret a subject. This analytical approach can be informed by a school of thought, historical patterns, or other ideas. 
+
+For example, my discussion of Final Fantasy VII so far has employed a framework that's attuned to social and economic inequalities and their relationship to capitalism. We'll call this framework "anticapitalism."
+
+Now, in reading through Remake's script, I thought Barret's "wasteful indulgences" speech to President Shinra and the people of Midgar was probably the most complete expression of Avalanche's goals in the base game. The planet is a living organism, the Shinra Company is extracting the planet's lifeblood, and severe consequences lie ahead for the planet if that process isn't stopped. This is why Avalanche must stop the Shinra Company. 
+
+So we can consider the framework of Barret's analysis as one that's broadly "environmental" - a  perspective concerned with the welfare of the planet. But let's put a pin in that speech for a second.
+
+There are a number of real life left-wing resistance groups which can be cited as analogues to Avalanche, ranging from Weather Underground in the United States to the Naxalites in India.
+
+Without getting too far into the weeds of perfect comparisons, I'd like to look at an organization that is ostensibly different from Avalanche in most ways save for their concern around environmental destruction. Let's talk about Extinction Rebellion UK, or XR UK for short. 
+
+XR UK was established in October 2018 to combat the ongoing climate emergency. The group uses a strategy of non-violent civil disobedience, which includes tactics such as occupying public spaces, blocking roads and bridges, and having its members be arrested en masse to overwhelm court systems. Generally, the goal of XR UK demonstrations is to compel governments to urgently act against climate change. This can be done through citizen assemblies, or bodies of citizens advising governments on environmental policy.
+
+What hangs over all of this is XR UK's longstanding demand to "Go Beyond Politics." In an article for Current Affairs, journalist Erica X Eisen writes that while this slogan is linked to XR's demand to create citizen assemblies, it's also worded that way to draw in a large amount of supporters, even those who may consider themselves apolitical. Eisen states that "Go Beyond Politics" pivots too far away from a framework that might explain what's driving the climate emergency. Eisen and I view the climate emergency through an anticapitalist lens.
+  
+We see the primary demand of capitalism, endless growth, as fundamentally incompatible with the finite resources of our planet.
+
+So when I read Barret's "wasteful indulgences" speech, I'm reminded of XR UK's "Go Beyond Politics" slogan--they both have environmental concerns at the forefront, but the framework is missing that little extra bit to tie it all together. It's missing a link to the root cause of all this: capitalism.
+
+Speaking of, let's take that pin out of Barret's speech now and test the limitations of Avalanche's environmental perspective.
+
+Let's try a thought experiment. We start by asking ourselves, would Barret's concerns be sufficiently addressed if mako reactors were replaced with, oh, I don't know... oil wells? Would it be too out of line to imagine a post-Shinra world where Barret, having succeeded in the elimination of mako reactors, is totally fine with burning oil for energy??
+ 
+A post-Shinra world where Barret has a puffer vest and a fishnet shirt? Do we know enough about Barret's perspective in Remake to make an argument for or against oil fields and fishnet shirts?
+
+Ahem. 
+
+To be fair to XR UK, the organization as a whole is intentionally decentralized, so not everyone has to agree with "Go Beyond Politics" to participate. And while "Go Beyond Politics" has had a presence in XR UK's branding, there are rank and file members who do participate in the organization with an anticapitalist framework.
+
+And to be fair to Remake: Barret does comment on a Shinra employee being blind to his "corporate masters profiting from the planet's pain," in a scene that both adds a smidge of depth to Avalanche's politics in the base game and is a great character moment for Barret. Additionally, a member of Avalanche calls the Shinra Company "fascists" during a shootout at the Sector 7 pillar which, y'know, I won't argue with. 
+
+With all of that said, I think it's useful for us to go back to the original game. Let's take a look:
+
+Barret: "You saw that village. It's always the powerless that get victimized by tyrants like Shinra. The one's with the power control those without it. That's just the way of the world now. I can't let 'em do that. That's why I formed AVALANCHE to fight 'em." 
+
+This dialogue is actually inaccessible in the original game because of a bug that prevents it from triggering. You'd read this dialogue in Gongaga, a settlement in ruin thanks to the explosion of a Mako reactor a little while before the events of the game.
+
+It's a shame this dialogue is lost to a lot of players, because it better establishes Barret's perspective, and by extension, Avalanche's perspective. They're not just people who want to preserve the lifestream, but they see a throughline between the Shinra Company's extraction of mako and the Shinra Company's oppression of people around the world. 
+
+The InterMISSION chapters take the spirit of this bit o' dialogue, marries it to that smidge of depth from Barret's Remake dialogue I mentioned earlier, and gives us the following:
+
+Sonon: "Before you got here, I did a little bit of recon. Found out what they want. Free elections, workers' rights, fair distribution of wealth... They don't see the world how we see it."
+
+Amazing.
+
+But seriously, the dialogue is so explicitly coded as "leftist" that it's almost in-your-face.
+
+Just as a brief example, the twin demands of "workers' rights" and "fair distribution of wealth" come up a lot in Marxist thought. This school of thought describes the relationship of "workers"--individuals who sell their labor to the "ruling class"--individuals who own the means that workers use to perform their labor. Marxism views this relationship as an unequal arrangement that sees one side accumulating just enough to continue living, while the other side hoards and defends wealth that they didn't create. The way to upend this relationship is by organizing workers against the ruling class, which leads to victories like better working conditions, the redistribution of wealth from the top to the bottom, and ultimately, the end of the system that relies on this awful relationship in the first place.
+
+And before you say anything--no, I don't think I'd call this game "Marxist." I'll go into this at length a little later in the video, but there are a few small issues that prevent me from canonizing Final Fantasy VII in the Cultural Marxism canon alongside classic works of art like The Battle of Algiers and... Harry Potter and the Half-Blood Prince? 
+
+Whoa. Apparently, in the extended cut of the film, the waitress from the introduction stares directly at the camera and implores the viewer to support union drives.
+
+"Harry Potter and the Waitress at Treats" is now my prevailing headcanon and OTP and I think it would make a fine AO3 title and I hope somebody will get us that, and give us the ending to the series that we all deserve.
+
+Um, moving on...
+
+If we take Barret's dialogue in Remake alone, there is some plausible deniability against radical left politics in the game's depiction of Avalanche. You might argue "Avalanche is beyond politics, they just blame the Shinra company for hurting the planet." 
+
+But the context we're given in the Original, INTERMission and the world we inhabit very concretely place Avalanche's goals and actions in an anticapitalist framework. To quote Barret--in 2022, multinational corporations are still "destroyin' our planet just to... build their power and line their own damn pockets with gold!" 
+
+=== Chapter 3: Radical Hearts, Radical Mirrors ===
+
+We began with this question: "Is Final Fantasy VII a radical left-wing game?" To answer this question, I made two assertions.
+
+1. There is a radical heart to Final Fantasy VII.
+
+2. Final Fantasy VII reflects real-world radical left politics.
+
+I think the radical heart of Final Fantasy VII is made manifest in the relationships between Avalanche, Midgar and the Shinra Company. Those relationships convey in-universe ideologies that read--to us--as radical because they reflect certain historical patterns, political theory, and the state of the world today. Let's go over what we've discussed so far:
+
+1. Avalanche is an organization of radical environmentalists who interpret the actions of their enemy through an anticapitalist lens. 
+
+2. The enemy that Avalanche fights against--the enemy that destroys the environment and oppresses people around the world--is the Shinra Company. 
+
+3. The monument to Shinra's global campaign of environmental destruction, and domination of its inhabitants, the place that puts the "under" in "underclass," the expired pizza that rots the land--is the city of Midgar.  
+
+This ever-beating heart propels much of what happens in Remake proper. We know that the Shinra Company's process of accumulating wealth has had tremendous consequences like war, murder, kidnapping, massacres, environmental destruction, and economic inequality. We know that these consequences brought Cloud, Barret, Tifa, Aerith and Red XIII to Midgar at different points of their lives. We know that after arriving in Midgar, the lives of these characters converge in part because of additional Shinra Company fuckery during the events of Remake.
+
+But is that the end of this video? Well, if we want to absolutely, definitively, and concretely conclude that Remake has the promise of radical left politics, it behooves us to see where Remake falls short of that promise. Let's look at two examples, starting with a closer examination of Barret Wallace. 
+
+=== Chapter 4: The Trouble With Barret Wallace ===
+
+What does it mean that most of the radical Barret quotes I cited in the last Chapter came from the original game? When you look at the equivalent sections in Remake's script -- the sections in which you'd expect Barret to make the same indictments of inequality, except in 60 frames per second with full voice-acting -- they're not there.
+
+Consider the train ride after the bombing of Reactor Number 1. In the original game, that's where the "fucking 'pizza'" conversation happens between Barret and Cloud. We're specifically told that lack of money and love of the land keep the poor on the lower plate. In Remake, this conversation shifts much of the focus to the Mako reactors'... adverse effects on soil and air.
+
+Consider also the aftermath of the Sector 7 plate fall. In the original game, Tifa wonders aloud if Shinra razed the Sector and massacred its people because of Avalanche. Barret replies that the atrocity is Shinra's fault, and it's "always been the Shinra" -- they're destroying the planet for profit. In Remake, Tifa expresses the same sentiment, and Barret again emphasizes that the massacre is the Shinra Company's fault... but the more radical line about profit is excised.
+
+It's like Remake's writers took the original character's anticapitalist framework and replaced it with the less severe "environmental" framework we discussed earlier.
+
+Or, to use a more relatable analogy for today's generation, the Proletarian Barret of the original game has been replaced by the Renegade Barret in Remake... get it? Like the, uh, like the 1918 polemic that Vladimir Lenin wrote against Karl Kautsky? Uh.... make sure you like and subscribe for more topical political content. 
+
+When we consider the way Remake reins in Barret's anticapitalist rhetoric, and the way the game focuses more on Avalanche's "collateral damage" in the form of Midgar residents being harmed and property being destroyed compared to the original game, we should keep in mind that this political shift was done deliberately. Here's what Remake's director Motomu Toriyama had to say in an interview:
+
+"... when the original came out we were all pretty young and things like 'Is it really right to destroy the Mako Reactors to save the planet?' didn't really cross our minds at all. However with the remake, a lot of things have happened in the real world, so we as the developers have a responsibility to figure out how to make things relate as well as how far to go."
+
+As a result of this shift, Remake Barret's strongest indictment of the Shinra Company's accumulation of wealth--their "profiting from the planet's pain"--is in a single line in a missable cutscene in the Shinra Company Headquarters. 
+
+We also see a notable divergence from the original game's plot in Remake. The version of Avalanche that we see at the start of the game is no longer a group that Barret founded. It's now a much larger organization comprised of a headquarters and multiple cells. Avalanche HQ considers Barret's cell "too extreme," and by the start of the game, his group operates as a splinter cell detached from the larger Avalanche organization.  
+
+I'm tentatively watching to see how this plot update plays out in future installments, but in the context of Remake and InterMISSION, I think it's not the greatest attempt at adding nuance. 
+
+My bone to pick with this plot thread is political: we never see what the more "moderate" strategy of addressing the Shinra Company's runaway oppression and environmental destruction looks like. Moreover, the final word on the ideological conflict between the more extreme and moderate sides of Avalanche is given to us by Sonon in Intermission:
+
+Sonon: "Hey, about what you said earlier." 
+
+Yuffie: "Which was...?"
+
+Sonon: "About Avalanche—how it's changed." 
+
+Yuffie: "Oh. That."
+
+Sonon: "These people are too soft. But those splinter cell guys? They sound like the ones we should've teamed up with. Don'tcha think?" 
+
+For what it's worth, Sonon... I think so. 
+
+One other area that could've actually used more nuance in the final product was Barret's blaxploitation-inspired... everything. 
+
+Black representation in mainstream media has traditionally had a lot of problems. How do I define the scope of mainstream media--is a game from Japan really a part of mainstream media in the English speaking world?
+
+Well, I live in the United States, and within the past 10 or more years, our national conversations around literature, movies, television shows, and video games have included work from other places around the world. This isn't the result of happenstance, but intentional.
+ 
+For example, the 2021 anticapitalist sensation Squid Game didn't cross over from people living in South Korea to a U.S. audience by word-of-mouth, but according to creator Hwang Dong-hyuk, it was intentionally written and marketed for a global audience.
+
+How do I define the problems of black representation in media? The typical tropes have been well-described for over a century, by scholars, by journalists, by activists... by regular folks who consume art. There's enough writing on the history and problems of black representation in media to fill up several Hell Houses, but I liked the CBC's brief exploration of black representation in Hollywood films if you want to dip your toes. Feel free to recommend readings in the comments as well, for me and other viewers.
+
+The issues with Remake's most prominent instance of black representation have been outlined by writers such as Jeffrey Rousseau in Ars Technica and Norris Howard in CXP. These issues go as far as the way Barret's hair is rendered, as clarified in an illuminating conversation led by Austin Walker on Twitter. 
+
+In short, Remake's Barret exhibits exaggerated, relatively more emotive speech that evokes a preacher from the U.S. South. He channels the trope of the "big, scary black man" at points. He also functions as comic relief by doing things like singing Stamp the dog's theme song and the game's victory fanfare. 
+
+Prior to Remake, Barret already carried some baggage because of the way fans associated him with Mr. T, from the popular 80s U.S. television series A-Team. This association has been acknowledged by Final Fantasy VII character designer and writer Tetsuya Nomura, who wrote in 2006: "Barret is often compared to a certain 'A-Team' member." Interesting to note is that Barret's Mr. T-esque dialogue quirks in the original--for example, his tendency to call people "fools"--appears to be a consequence of the English-lanuage localization. In playing the original in both English and Japanese at the same time, writer Tim Rogers in Kotaku describes Barret coming off as more of a serious military man in the original Japanese. 
+
+For all of Remake Barret's good scenes and dialogue, the Remake team did a pretty poor job at shaking off this baggage. While he isn't emulating Mr. T anymore, as Jeffrey Rosseau points out, his voice still oozes blaxploitation characters of the 70s. 
+
+I've seen attempts by commenters  to downplay the issue in one of the referenced articles and the Twitter thread. The issue is handwaved as "Japanese developers are making a product for Japanese people first and foremost, they can't be faulted for messing up Barret," "Japanese media has a poor track media in terms of the depiction of non-Japanese ethnicity," "the concern about good representation of black people is a U.S. conceit that's out of touch with the rest of the world," and so on. 
+
+But we're not talking about sheltered babies who happened to put together a video game that became an international hit.
+ 
+This is a corporation that--despite being at least peripherally aware of negative associations around Barret--still made a deliberate decision to convey a black character in a stereotypical way.
+
+As Austin Walker writes: "You cannot give Barret a blaxploitation voice, make him speak with black slang, and then pretend that you don't owe anything to blackness." Remake's failure to better engage with the blackness it borrows from unfortunately fits the same pattern of failure in mainstream media.
+
+There's one last facet of Remake Barret that I'll talk about, and it lies at the intersection of two dimensions we've already talked about. Let's look at a passage from Political Scientist Cedric Robinson's 1998 essay "Blaxploitation and the Misrepresentation of Liberation." 
+
+Unfortunately, this is the only work in this video that's paywalled: the essay is available in the collection Cedric J. Robinson: On Racial Capitalism, Black Internationalism, and Cultures of Resistance. If you have access to academic search engines, any academic search engines, you can find the original article by plugging in the title. 
+
+I've transcribed the passage most relevant to this discussion in full: 
+
+"One of the most effective and clever manoeuvres of the Blaxploitation genre was the appropriation and re-presentation of Angela Davis’s public image. This manipulation, of course, was of a piece with the commercial cinema’s translation of the mass Black rebellion which occurred near the end of the Civil Rights era... independent and then established film-makers trivialised the troubled activists of the movement into the now familiar male counter-revolutionary creatures: the male prostitute (’Sweetback’), the vigilante cops (’Gravedigger Jones’ and ’Coffin Ed Johnson’); the dope pusher (’Shaft’); and the gangster (’Black Caesar’, etc). 
+
+... Film, however, transported Davis’s form from a representation of a revolutionist to that of an erotic Black nationalist, largely devoid of historical consciousness. This was achieved by eviscerating the original’s intellectual sophistication, political and organisational context, doctrinal commitments, and most tellingly, her critique of capitalist society and its employment of gender, race and class."
+
+Robinson goes on to specifically describe the eroticization of Angela Davis in Blaxploitation films through characters played by Pam Grier and Rosalind Cash--but what we're concerned about when it comes to Barret is the idea of black militants having their own image and their own systemic critiques caricatured when they're translated from real life to film. 
+
+When I look at Barret in all of his incarnations, Original, Remake or otherwise, it's hard not to see Robinson's observations being practiced. Even if the underlying context and authorial intentions aren't 100% aligned with Blaxploitation filmmakers of the 70s, I think there's a throughline between the archetypical images of black militants in the United States from the 60s and 70s and Barret. 
+
+For the sake of my argument, let's place the start of this throughline at the real-life black radicals of the 60s and 70s. Those real-life people are transformed into political caricatures in the Blaxploitation films of the 70s and 80s. One soon-to-be-famous actor named Mr. T makes his Hollywood debut in the Blaxploitation film Penitentiary II in 1982, before becoming a breakout star with his role as Clubber Lang in Rocky III later that same year. Mr. T goes on to achieve lasting international recognition with a starring role on A-Team as B.A. Baracus from 1983-1987. The original Final Fantasy VII is released in 1997, about a decade after the end of A-Team, and one of the first party members you meet in the game--one of the first party members conceived for the game is Barret Wallace. Here we have a character who evokes Mr. T visually, channels Mr. T and Blaxploitation characters in his dialogue, and has some of the anticapitalist politics of those real-life black radicals from the 60s and 70s.  
+
+I've presented this timeline in a linear way, but the argument is not intended to be a straight trip from  "point A" to "point B" -- it's more of a confluence of factors, some connected, like black radicals and their Blaxploitation counterparts, and some parallel, like the inauguration of Mr. T into the popular consciousness. But I do see Barret Wallace as the result of this confluence. 
+
+From 1997, let's skip straight to 2021, where the somewhat-depoliticized Barret of the Original game has become the even-more-depoliticized Barret of Remake. And remember this depoliticization is relative to his real-life radical progenitors, not a total judgement of the two Barrets' politics. This contrast really helps bring into high relief the idea, partly informed by Dr. Robinson, that the act of translating revolutionary politics to mainstream media causes those politics to be watered down or caricatured in the final product. 
+
+I guess there's one outstanding question that I've been eliding this whole time: "Is Barret's portrayal in Final Fantasy VII Remake racist?" 
+
+Yes.
+
+=== Chapter 5: People of Midgar ===
+
+I said earlier that there are a few small issues that prevent me, a person of authority, from canonizing Final Fantasy VII as a "Marxist" game. Let's get the obvious issues out of the way:
+
+1. Neither Nojima, Nomura, Toriyama, nor any of the senior production staff involved in the Compilation of Final Fantasy VII have ever publicly communicated an overtly left-wing intent or inspiration in conveying the world of Final Fantasy VII. 
+
+As a bit of leftist myself, I often have to remind myself that sometimes, popular media can just make radical points without necessarily being on the side of international communist revolution. Like, it's definitely OK for John Oliver to point out contradictions in capitalism in his weekly show without taking the extra half-step and indicting the whole damn system. It's OK for John Oliver to present issues in such a way that the viewer is guided towards interrogating the system that created those issues, the system being capitalism, without John Oliver himself actually condemning capitalism. It's OK for John Oliver to not be communist, okay?
+
+2. The Original's overt anti-capitalist themes fall off a bit after the Midgar section.
+ 
+We'll see how the Remake series handles these themes in subsequent releases, but from what I remember of the Original, the game's themes pivot to Cloud's past, Aerith's future, and the pursuit of Sephiroth, or the path of Sephirot if you're a Xenogears fan. Does that even make sense? Let me know in the comments, will ya?
+
+Shinra largely leaves the foreground for the next part of the game, with a few exceptions like the Corel Village plot and the backstory around the Wutai sidequests.
+
+By far, the largest demerit I can levy against the argument that "Remake is a Marxist game" is this: 
+
+3. The people of Midgar don't participate in their own liberation.
+
+To begin unpacking this, I ask this question: can you recall any instances of regular ole' residents of Midgar in Final Fantasy VII organizing themselves? We don't see people clamoring to join Avalanche.  The most grassroots form of activity we see is the work of the Neighborhood Watch in Sector 7, a community defense organization that patrols and exterminates monsters. 
+
+Meanwhile, we're told that Avalanche levies demands like "worker's rights," we never get more information about Avalanche's praxis around these demands, nor information on how Midgar residents participate in advocating these demands for themselves.
+ 
+There isn't a great sense that the residents of Midgar stand in solidarity with Avalanche, something that's especially made apparent in the incidental dialogue from Midgar residents after the Sector 7 plate fall.
+
+So we conclude that Avalanche is the primary, if not sole group of people agitating for radical change in Midgar. We also conclude that Avalanche and Midgar Residents don't have much cross-pollination by way of collaboration going on.
+
+This is just not a Marxist relation, nor is is it a strong portrayal of radical politics. 
+
+You'll remember from our discussion of Marxist thought that workers are named the agents of radical change. To paraphrase the Communist Manifesto:
+
+"Communists have no interests separate and apart from those of the workers as a whole...  The immediate aim of the Communists is the formation of the workers into a class, overthrow of ruling class supremacy, and conquest of political power by workers."  
+
+There's no doubt that the Avalanche members we know intimately are reflective of workers in Midgar, with Biggs being a former teacher, Jessie being a former actor, and Tifa being a bartender, Cloud being a Shinra Publi--uh, SOLDIER, First Class. But all of the revolutionary activity that happens in Midgar begins and ends with Avalanche. We don't see other Midgar residents get involved or become radicalized by Avalanche. Regular ole' Midgar residents don't exhibit any revolutionary agency towards their own liberation. There's no self-determination!
+
+I know what you're thinking -- "a work doesn't need to be 'Marxist' to be radical" -- and I agree.
+ 
+I do think Marxism is a useful lens through which we can assess a work's radical qualities, especially given the way these games evoke anticapitalist ideas. Deploying this lens magnifies that last demerit I described - that the people who would benefit from their own liberation are never significantly involved or represented among the ranks of Avalanche, who have taken on the mantle of liberator. There is probably some radical tradition or theory that reconciles this imbalanced relationship to make it work, but it's hard for me to co-sign the idea that a handful of special folks shepherding the rest of us into a brighter future is a particularly radical idea. 
+
+With that, I guess it's about time we answered that one question, isn't it? 
+
+=== Chapter 6: The Answer ===
+
+We've reached the end of our journey together, and look how far we've come: We've vivisected a radical heart, we've shattered a radical mirror, we've bullied the man with the machine gun arm, and most importantly, we've saved an innocent video game from being labeled "Marxist." I'm sure you're clamoring to hear a definitive answer to the question in the title of the video: "Is Final Fantasy VII a Radical Left-Wing Game?"
+
+But before we put our stamp on the question once and for all, I think it's worth noting a couple of things:
+
+1. A handful of you, including my developmental editor Elizabeth, might be annoyed that I spent a lot of time talking about the "Content" of Final Fantasy VII without even touching the "Form" of Final Fantasy VII.  To quote Elizabeth's notes on this video:
+
+"I think part of the analysis of a work of art's politics is not just its content [what the game is about, the issues it deals with, what the plot and characters show about the politics of the work, etc.] but its form. For instance- what kind of narrative it is, how does its genre influence the story being told, what kind of interactions does it create with its audience, what kind of 'subject' interacts with it and interprets it and how; also who produces it, how it's produced, why societies turn to certain kinds of art (such as video games) at certain times."
+
+The relationship of "Form" and "Content" comes out of the writings of G.W.F. Hegel and Marxist thinkers like Theodor Adorno, and it's definitely something I can stand to learn more about. I'm leaving this as an open thread for folks to discuss, and I might pick it back up for a new video in the future.
+
+2. Let's be mindful of our tendency, as left-wing consumers and critics, to impute certain political conclusions to works of art that we enjoy.
+ 
+Take this statement by English Professor Nicola Nixon: 
+
+"The conflation of aesthetic appreciation and good politics surfaces, in certain critics, as a form of leftist wish-fulfillment... in other words, if one likes the fiction, it must necessarily involve the articulation of a perceptible, revolutionary project."
+
+Cut to shot of scrolling through notepad TEXT FILE/Excel FILE/Word document/IRL notebook page and crossing out every idea except for "Squall is dead 2022": header "FUTURE VIDEO IDEAS" with ideas listed: "Genshin Impact: Why zhongli would have supported the peace of westphalia," "Ogre battle (SNES) as an allegory for the formation of nato," "Final fantasy VIII: Squall is dead 2022 NEW developments," "reconciling deus ex and 'all lives matter,'" "Which Final Fantasy VII characters would take up the world proletarian revolution in our world from most likely to least likely?"
+
+Definitely a mood. I often have to stop myself from running too wild with my left-wing wish fulfillment when I brainstorm and write up outlines for my videos. 
+
+As a leftist, I think it's fun to recognize and appreciate radical leftwing elements in a work, whether it's anticapitalist themes, rhetoric about things like "workers' rights," and relations that mirror relations we see in history. 
+
+I think I would conclude that Final Fantasy VII doesn't use its radical leftwing elements as set dressing, but makes those elements crucial to the existence of its world: look towards Midgar, the Shinra Company, and Avalanche as examples. That said, having reviewed the body of evidence, I don't think Final Fantasy VII - the Original, Remake Part 1, any iteration - can be called a radical left-wing game. 
+
+I don't think there's enough being done by the game to synthesize its left-wing elements into a conclusion about the nature of our world. The game doesn't have to be an on-the-nose satire to achieve this, but it's telling to me that the game's various anticapitalist aspects tend to converge towards the conclusion that Shinra is the problem, and not capitalism generally, limiting the scope of the game's message to a specific evil inside of its own world.
+
+However, I will say that Final Fantasy VII is a damn fine game, leftist gamers don't have to limit themselves to ideologically pure, or even ideologically coherent games, and you can literally operate a sewer system's water pump with your girlfriend in Remake. Play the game. Play InterMISSION. Just go and do it. 
+
+And most importantly: get involved with a left organization in your area. If you live in the United States, look up who's active in your area, see what kind of work they do around the specific issues that you're interested in–whether it’s the environment, antiracism, or abortion rights–-and see how you can get involved. The good organizations will typically have some sort of political education program, which might cover some of the real-life events and topics I've discussed in this video. If you live in the United States, the Democratic Socialists of America has chapters in states across the country  - shoutout to the AFROSOC caucus. Don't discount smaller groups either, even if it's just a once-a-month reading group -- it's so useful to learn with a group of people, to have conversations and debates, to become activated!
+
+Because everything I've described -- from the exploitation of the poor to the destruction of the environment -- can only be stopped if we organize ourselves. To paraphrase Barret and Aerith at different points in Remake: we don't want to look back one day and wish we'd done it differently. Right here, right now, we need to keep moving forward, so we can say we did everything we could. 
+
+
+
+
